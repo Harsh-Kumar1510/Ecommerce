@@ -9,7 +9,7 @@ in the frontend part we have used Reactjs
 
 # For the authentiction part we have used JWT 
 # We have provided online as well as offline(Cash on Delivery) method for payment
-# For the global state management I have used Redux
+# For the global state management we have used Redux
 # To update the status of either product has been delivered admin can mark as delivered
 # there is also a business rule applied like if the product price is less than 100 then shipping price will be applied
 # customer can research for different product based on the choice and the price range
@@ -17,7 +17,7 @@ in the frontend part we have used Reactjs
 
 ## For styling React bootsrap as well as css is used
 
-# This website is still under construction as I want to add some more features
+# This website is still under construction as we want to add some more features
 backend dependencies are ﻿asgiref==3.7.2
 certifi==2023.5.7
 cffi==1.15.1
