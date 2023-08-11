@@ -1,15 +1,14 @@
-# Link for Backend is https://github.com/amitkumar1310/onlineshopbackend.git
-# This is Shopping Website created by me(Amit Kumar)
+# This is Shopping Website created by me and my friends
 Most of the Functionality has been included which are required in our daily life during online purchasing
 This Project is Fully Responsive 
 
-in the backend part I have used django 
+in the backend part we have used django 
 
 
-in the frontend part I have used Reactjs
+in the frontend part we have used Reactjs
 
-# For the authentiction part I have used JWT 
-# I have provided online as well as offline(Cash on Delivery) method for payment
+# For the authentiction part we have used JWT 
+# We have provided online as well as offline(Cash on Delivery) method for payment
 # For the global state management I have used Redux
 # To update the status of either product has been delivered admin can mark as delivered
 # there is also a business rule applied like if the product price is less than 100 then shipping price will be applied
